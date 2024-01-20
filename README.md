@@ -2,15 +2,15 @@
 
 <img align='right' src="https://media.tenor.com/3pnWi46G9eUAAAAi/gwo-gzlwong.gif" width="160" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79393&random=false&width=435&lines=Frontend+developer;Blockchain+developer;Love+cats)](https://git.io/typing-svg)
 
-# <img src="https://media.tenor.com/YUFdxXu1_ZoAAAAi/yellow-butterfly-pixel-art.gif" width="30">
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79393&random=false&width=435&lines=Frontend+developer;Blockchain+developer;Love+cats)](https://git.io/typing-svg)
+
 
 
 <p>🔗 Опыт работы: 2 годa</p>
 
 
-### Мой стек: 
+### Мой стек: <img src="https://media.tenor.com/YUFdxXu1_ZoAAAAi/yellow-butterfly-pixel-art.gif" width="30">
 ![HTML5](https://img.shields.io/badge/-HTML5-2e2e2e?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-2e2e2e?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2e2e2e?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
