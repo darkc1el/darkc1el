@@ -1,0 +1,23 @@
+<svg width="1440" height="267" viewBox="0 0 1440 267" fill="none" xmlns="http://www.w3.org/2000/svg" style="height: auto">
+    <path d="M0 267V74.3778C97.0526 87.4743 194.105 100.571 302 84.0089C409.895 67.4471 528.632 21.227 616 5.99696C703.368 -9.23309 759.368 6.5269 834 31.0378C908.632 55.5488 1001.89 88.8107 1106 97.4925C1210.11 106.174 1325.05 90.2761 1440 74.3778V267H0Z"
+          fill="url(#gradient)"/>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="0" stop-color="#cdb891" />
+
+            <stop offset="0.14285714285714285" stop-color="#b7a37f" />
+
+            <stop offset="0.2857142857142857" stop-color="#a28e6d" />
+
+            <stop offset="0.42857142857142855" stop-color="#8d7a5c" />
+
+            <stop offset="0.5714285714285714" stop-color="#79664b" />
+
+            <stop offset="0.7142857142857142" stop-color="#65533b" />
+
+            <stop offset="0.8571428571428571" stop-color="#52412c" />
+
+            <stop offset="1" stop-color="#3f301d" />
+        </linearGradient>
+    </defs>
+</svg>
