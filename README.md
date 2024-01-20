@@ -1,4 +1,4 @@
-![top-wave](./images/top.svg)
+![top-wave](./top.svg)
 
 <img align='right' src="https://media.tenor.com/3pnWi46G9eUAAAAi/gwo-gzlwong.gif" width="160" />
 
@@ -21,4 +21,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=918267&vCenter=true&width=435&lines=Abracadabra;Bibbidi-Bobbidi-Boo;Hocus+Pocus;Abrum+Calabum;%D1%88%D1%8B%D0%BD%D0%B4%D1%80+%D0%BC%D1%8B%D0%BD%D0%B4%D1%80+%D0%B7%D0%B0%D0%BF%D1%83%D0%BF%D1%8B%D0%BD%D0%B4%D1%80+%F0%9F%A4%A8)](https://git.io/typing-svg)
 
-![bottom-wave](./images/bottom.svg)
+![bottom-wave](./bottom.svg)
