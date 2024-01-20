@@ -19,6 +19,6 @@
 ![Docker](https://img.shields.io/badge/-DOCKER-2e2e2e?style=for-the-badge&logo=Docker)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=918267&vCenter=true&width=435&lines=Abracadabra;Bibbidi-Bobbidi-Boo;Hocus+Pocus;Abrum+Calabum;%D1%88%D1%8B%D0%BD%D0%B4%D1%80+%D0%BC%D1%8B%D0%BD%D0%B4%D1%80+%D0%B7%D0%B0%D0%BF%D1%83%D0%BF%D1%8B%D0%BD%D0%B4%D1%80+%F0%9F%A4%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79393&random=false&width=435&lines=Frontend+developer;Blockchain+developer;Love+cats)](https://git.io/typing-svg)
 
 ![bottom-wave](./bottom.svg)
