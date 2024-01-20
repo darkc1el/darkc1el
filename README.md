@@ -3,7 +3,7 @@
 <img align='right' src="https://media.tenor.com/3pnWi46G9eUAAAAi/gwo-gzlwong.gif" width="160" />
 
 
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79393&random=false&width=435&lines=Frontend+developer;Blockchain+developer;Love+cats)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F79393&random=false&width=435&lines=Frontend+developer;Blockchain+developer;Love+cats)](https://git.io/typing-svg)
 
 
 
